@@ -77,4 +77,4 @@ Une application réalisé en collaboration avec des membres des autres formation
 
 J'ai réalisé uniquement la partie Back-End de cette application.
 
-![Chez-Gustave](https://github.com/Marvin-Morin/chez-gustave-perso)
+https://github.com/Marvin-Morin/chez-gustave-perso
