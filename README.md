@@ -96,7 +96,7 @@ https://github.com/Marvin-Morin/chez-gustave-perso
 
 Il s'agit là de ma première application réalisé avec angular : 
 
-https://www.2m-web.fr/a-propos
+https://www.2m-web.fr/
 
 ![2M-Web](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/2m-web.png)
 
