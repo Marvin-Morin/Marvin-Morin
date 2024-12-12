@@ -63,7 +63,7 @@ Une application réalisé durant mon année de formation en front 2022 / 2023 av
 
 La page favorite n'a pas été crée ( manque de temps )
 
-![HOME](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/home.png)
+![HOME](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/home_filmflow.png)
 ![CLICK](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/click.png)
 ![CASTING](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/casting.png)
 ![SEASONS](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/seasons.png)
@@ -79,7 +79,7 @@ J'ai réalisé uniquement la partie Back-End de cette application.
 
 https://github.com/Marvin-Morin/chez-gustave-perso
 
-![Home](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/home.png)
+![Home](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/home_chez_gustave.png)
 ![Formulaire reservation](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/formulaire_reservation.png)
 ![Home réservation](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/home_reserve.png)
 ![Reservation](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/reservation.png)
