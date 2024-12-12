@@ -1,4 +1,4 @@
-![Cover](https://github.com/Marvin-Morin/My-profil/blob/main/portfolio.png)
+![Cover](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/portfolio.png)
 
 # 👋 Bonjour, je suis Marvin Morin !  
 **Développeur Full-Stack certifié** avec une passion pour la création de solutions web performantes et modernes.  
