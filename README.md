@@ -78,3 +78,13 @@ Une application réalisé en collaboration avec des membres des autres formation
 J'ai réalisé uniquement la partie Back-End de cette application.
 
 https://github.com/Marvin-Morin/chez-gustave-perso
+
+![Home](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/home.png)
+![Formulaire reservation](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/formulaire_reservation.png)
+![Home réservation](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/home_reserve.png)
+![Reservation](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/reservation.png)
+![Ajouter un logement](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/formulaire_add_logement.png)
+![Demande invitation](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/demande_invitation.png)
+![Mail de demande invitation](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/demande_invitation_mail.png)
+![Invitation par l'admin](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/invitation.png)
+![Mail invitation reçus](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/invitation_mail.png)
