@@ -35,7 +35,7 @@
 
 | Domaine          | Niveau     | Description |
 |-------------------|------------|-------------|
-| **Front-End**     | ⭐⭐⭐⭐⭐    | Création de sites modernes, réactifs et performants avec Angular et React. |
+| **Front-End**     | ⭐⭐⭐⭐☆    | Création de sites modernes, réactifs et performants avec Angular et React. |
 | **Back-End**      | ⭐☆☆☆☆     | Développement d'API sécurisées et évolutives avec Node.js, Express et TypeScript. |
 | **Bases de données** | ⭐☆☆☆☆  | Gestion efficace avec SQL, MySQL et MongoDB. |
 | **DevOps**        | ⭐☆☆☆☆      | Conteneurisation et déploiement avec Docker. |
