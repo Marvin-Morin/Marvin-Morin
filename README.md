@@ -52,7 +52,7 @@
 ## 💬 Contactez-moi
 
 📧 Email : [marvin.malouin@gmail.com](mailto:marvin.malouin@gmail.com)  
-🌐 Portfolio : [2MWEB](https://marvin.fronthub.fr/)  
+🌐 Portfolio : [Portfolio](https://marvin.fronthub.fr/)  
 🌟 LinkedIn : [Marvin Morin](https://www.linkedin.com/in/marvin-morin-5b15291b3/)  
 
 ---
