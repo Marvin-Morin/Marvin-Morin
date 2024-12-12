@@ -59,6 +59,11 @@
 
 ## REACT
 
-** Une application réalisé durant mon année de formation en front avec REACT JS. **
+Une application réalisé durant mon année de formation en front avec REACT JS.
 
-** La page favorite n'a pas été crée ( manque de temps ) **
+La page favorite n'a pas été crée ( manque de temps )
+
+(https://github.com/Marvin-Morin/Marvin-Morin/blob/main/home.png)
+(https://github.com/Marvin-Morin/Marvin-Morin/blob/main/click.png)
+(https://github.com/Marvin-Morin/Marvin-Morin/blob/main/casting.png)
+(https://github.com/Marvin-Morin/Marvin-Morin/blob/main/seasons.png)
