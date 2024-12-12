@@ -88,3 +88,18 @@ https://github.com/Marvin-Morin/chez-gustave-perso
 ![Mail de demande invitation](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/demande_invitation_mail.png)
 ![Invitation par l'admin](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/invitation.png)
 ![Mail invitation reçus](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/invitation_mail.png)
+
+
+---
+
+## Angular
+
+Il s'agit là de ma première application réalisé avec angular : 
+
+https://www.2m-web.fr/a-propos
+
+![2M-Web](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/2m-web.png)
+
+Plan de travail :
+
+![Plan de travail](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/plan_de_travail_2m-web.png)
