@@ -73,7 +73,7 @@ La page favorite n'a pas été crée ( manque de temps )
 
 ## Node.js
 
-Une application réalisé en collaboration avec des membres des autres formation de l'IMTS durant ma formation Back-End de 2023 / 2024.
+Une application réalisé en collaboration avec des membres des autres formations de l'IMTS durant ma formation Back-End de 2023 / 2024.
 
 J'ai réalisé uniquement la partie Back-End de cette application.
 
