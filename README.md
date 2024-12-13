@@ -59,13 +59,14 @@
 
 ## REACT
 
+![HOME](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/home_filmflow.png)
+
 Une application réalisé durant mon année de formation en front 2022 / 2023 avec REACT JS.
 
 La page favorite n'a pas été crée ( manque de temps )
 
 Voir le site : https://marvin.fronthub.fr/Mes-projets/Front-End/REACT/filmflow/
 
-![HOME](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/home_filmflow.png)
 ![CLICK](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/click.png)
 ![CASTING](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/casting.png)
 ![SEASONS](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/seasons.png)
@@ -75,13 +76,14 @@ Voir le site : https://marvin.fronthub.fr/Mes-projets/Front-End/REACT/filmflow/
 
 ## Node.js
 
+![Home](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/home_chez_gustave.png)
+
 Une application réalisé en collaboration avec des membres des autres formations de l'IMTS durant ma formation Back-End de 2023 / 2024.
 
 J'ai réalisé la partie Back-End ainsi que la partie Front-end de cette application.
 
 https://github.com/Marvin-Morin/chez-gustave-perso
 
-![Home](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/home_chez_gustave.png)
 ![Formulaire reservation](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/formulaire_reservation.png)
 ![Home réservation](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/home_reserve.png)
 ![Reservation](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/reservation.png)
@@ -96,12 +98,30 @@ https://github.com/Marvin-Morin/chez-gustave-perso
 
 ## Angular
 
+![2M-Web](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/2m-web.png)
+
 Il s'agit là de ma première application réalisé avec angular : 
 
 https://www.2m-web.fr/
 
-![2M-Web](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/2m-web.png)
 
 Plan de travail :
 
 ![Plan de travail](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/plan_de_travail_2m-web.png)
+
+
+---
+
+## Python
+
+![Home](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/home_crud.png)
+
+Première application Python avec Django. 
+Il s'agit d'un CRUD concernant des auteurs et leurs livres. 
+
+Voir le code : https://github.com/Marvin-Morin/django/tree/main
+
+![Author](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/author.png)
+![Book of author](https://github.com/Marvin-Morin/Marvin-Morin/blob/main/book.png)
+
+
